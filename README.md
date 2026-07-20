@@ -30,7 +30,7 @@ This project demonstrates how to perform file handling in Node.js using the buil
 Clone the repository:
 
 ```bash
-git clone https://github.com/kripaparajuli-a11y/Node-File-Handeling-Workshop.git
+git clone https://github.com/kripaparajuli-a11y/Node-File-Handling-Workshop.git
 ```
 
 Move into the project folder:
@@ -72,7 +72,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/kripaparajuli-a11y/Node-File-Handeling-Workshop.git
+git remote add origin https://github.com/kripaparajuli-a11y/Node-File-Handling-Workshop.git
 git push -u origin main
 ```
 
