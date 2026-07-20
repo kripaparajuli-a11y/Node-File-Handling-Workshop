@@ -1,13 +1,13 @@
 {
-  "name": "node-file-handeling-workshop",
+  "name": "node-file-handling-workshop",
   "version": "1.0.0",
-  "description": "",
-  "license": "ISC",
-  "author": "",
-  "type": "commonjs",
-  "main": "appendFile.js",
+  "description": "A beginner Node.js File Handling Workshop demonstrating the File System (fs) module and HTTP server.",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  }
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kripa Parajuli",
+  "license": "ISC",
+  "type": "commonjs"
 }
